@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>https://wsmlby.github.io/webtools/</loc>
-  <lastmod>2025-04-02T17:50:50+00:00</lastmod>
+  <lastmod>2025-04-10T00:42:15+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://wsmlby.github.io/webtools/epoch.html</loc>
-  <lastmod>2025-04-02T17:50:50+00:00</lastmod>
+  <loc>https://wsmlby.github.io/webtools/qrcode.html</loc>
+  <lastmod>2025-04-10T00:42:15+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://wsmlby.github.io/webtools/privacy-policy.html</loc>
-  <lastmod>2025-04-02T17:50:50+00:00</lastmod>
+  <lastmod>2025-04-10T00:42:15+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://wsmlby.github.io/webtools/polygon.html</loc>
-  <lastmod>2025-04-02T17:50:50+00:00</lastmod>
+  <lastmod>2025-04-10T00:42:15+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://wsmlby.github.io/webtools/bbox.html</loc>
-  <lastmod>2025-04-02T17:50:50+00:00</lastmod>
+  <lastmod>2025-04-10T00:42:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://wsmlby.github.io/webtools/epoch.html</loc>
+  <lastmod>2025-04-10T00:42:15+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 </urlset>
